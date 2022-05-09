@@ -1,0 +1,1 @@
+/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/apache-maven-3.8.4/bin:/usr/local/apache-tomcat-9.0.56/bin:/usr/local/mysql/bin
